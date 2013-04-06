@@ -5,7 +5,7 @@
 package service;
 
 import domain.TbRequisitoria;
-import domain.TbRequisitoria_;
+//import domain.TbRequisitoria_;
 import java.util.List;
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
